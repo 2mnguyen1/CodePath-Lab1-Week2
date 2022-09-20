@@ -8,7 +8,7 @@ Users can see right or wrong answer after choosing answer
 
 ### App Walk-though
 
-<img src="https://recordit.co/LHboBIs60J" width=200><br>
+<img src="http://g.recordit.co/LHboBIs60J.gif" width=200><br>
 
 
 ## Required
